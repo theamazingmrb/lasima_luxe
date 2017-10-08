@@ -1,13 +1,21 @@
 #door1 {
 	height: 400px;
 	padding: none;
+	display:none;
 }
 
 #door2 {
 	height: 400px;
 	padding: none;
+	display: none;
 }
 
 p {
 	color: blue;
+}
+
+#lasimaLogo {
+	display: block;
+	margin: 0 auto;
+	max-width: 800px;
 }
