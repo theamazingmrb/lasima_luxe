@@ -9,11 +9,15 @@ padding: 0;
 	z-index:-1;
 	display: inline-block;
 	position: absolute;
+
+}
+
+#door1 {
+	transform: scaleX(-1);
 }
 
 #door2 {
 	left: 50%;
-	transform: scaleX(-1);
 }
 
 #lasimaLogo {
