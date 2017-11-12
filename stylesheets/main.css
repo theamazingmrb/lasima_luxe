@@ -21,10 +21,13 @@ padding: 0;
 }
 
 #lasimaLogo {
-	display: block;
-	margin: 0 auto;
-	max-width: 800px;
-	position: relative;
+    max-height: 250px;
+    max-width: 250px;
+    position:absolute;
+    top:0;
+    bottom:0;
+    margin:auto;
+    left:41%;
 }
 
 #store {
